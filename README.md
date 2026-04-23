@@ -15,8 +15,8 @@
 ### step3:In terminal type "docker run -it bankofkigali1-docker" to access file
 
 <img width="1919" height="1079" alt="Screenshot 2026-04-23 192442" src="https://github.com/user-attachments/assets/efb99c14-6b0d-46bf-9046-2fa38731b143" />
-### step4: access file
+
 <img width="1919" height="1079" alt="Screenshot 2026-04-23 192520" src="https://github.com/user-attachments/assets/04f11f32-213d-4df5-92d8-fe77c1610e1a" />
 
-
+### step4: access file
 <img width="1919" height="1079" alt="Screenshot 2026-04-23 192526" src="https://github.com/user-attachments/assets/7d99ea82-e6b5-4dac-87a4-89d78bf13840" />
